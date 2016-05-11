@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>点滴</title>
+    <link>http://aningstar.github.io/</link>
+    <description>Recent content on 点滴</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 11 May 2016 19:11:06 +0800</lastBuildDate>
+    <atom:link href="http://aningstar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>金水桥边</title>
+      <link>http://aningstar.github.io/post/%E9%87%91%E6%B0%B4%E6%A1%A5%E8%BE%B9/</link>
+      <pubDate>Wed, 11 May 2016 19:11:06 +0800</pubDate>
+      
+      <guid>http://aningstar.github.io/post/%E9%87%91%E6%B0%B4%E6%A1%A5%E8%BE%B9/</guid>
+      <description>&lt;p&gt;最近几天都在看电视剧《金水桥边》，虽然北京卫视估计才播了一半，但是YouTube上已经有全集了，看来真是这样，很多电视剧在上星之前都在地方频道播出过了。YouTube对国外的版权审核很严格，但是对国内的电视剧倒是没有过多限制，特别是一些老电影，YouTube上都有。&lt;/p&gt;
+
+&lt;p&gt;《金水桥边》的题名是贾春旺写的，可以得知这是一部描写公安的题材。时间跨度从北京即将解放到文革结束，让人感动的文革期间的剧情。小院里的邻居互相帮助，平日的罅隙在大难面前都是浮云，普通人之间淳朴的感情远比什么口号要有力量的多。刚开始追的动力以为是部喜剧片，不过刚开始哥俩打打闹闹，吵吵嚷嚷的破案过程还是蛮欢乐的，不过随着剧情的发展，时代的变化，逐渐变的沉重起来。&lt;/p&gt;
+
+&lt;p&gt;让人最感动的情节有二，都是文革附近的。一是钱有根带着孙光大的儿子去劳改农场告别的场面，二是孙光大平反后回到小院，坐到钱有根的家里，春花突然无声的抽泣，两位男演员表现出的那种克制的痛苦与感激，让人确实不慎唏嘘。&lt;/p&gt;
+
+&lt;p&gt;后期悲剧色彩浓郁，钱家的女儿考上北大，眼看和孙卫国（孙光大的儿子）回城结婚了，结果因在东北救火，没有回来。关家的女儿一念之差，没有和相爱的钱家儿子插队，二是选择了关家的儿子，谁知关家的儿子结果是个混混。钱家儿子回城，结果关家女儿得了绝症，实在让人感觉编剧是不是故意的，把剧情后期写的这么惨。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>学术规划</title>
+      <link>http://aningstar.github.io/post/%E5%AD%A6%E6%9C%AF%E8%A7%84%E5%88%92/</link>
+      <pubDate>Wed, 11 May 2016 08:48:42 +0800</pubDate>
+      
+      <guid>http://aningstar.github.io/post/%E5%AD%A6%E6%9C%AF%E8%A7%84%E5%88%92/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;学习python&lt;/li&gt;
+&lt;li&gt;努力做学术&lt;/li&gt;
+&lt;li&gt;写出sci&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;现在的难点有以下几点：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;保证时间，保证静下心来；&lt;/li&gt;
+&lt;li&gt;迅速找到一个方向，分两个角度，一是兴趣点，二是灌水点；&lt;/li&gt;
+&lt;li&gt;按照规划，今年至少应该投出一篇文章；&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>你好 hugo</title>
+      <link>http://aningstar.github.io/hello/</link>
+      <pubDate>Wed, 11 May 2016 08:48:23 +0800</pubDate>
+      
+      <guid>http://aningstar.github.io/hello/</guid>
+      <description>&lt;p&gt;喜欢这种静态网页，一是支持markdown，二是只需要专心写作即可。&lt;/p&gt;
+
+&lt;p&gt;但愿能真的记录点滴。。。。。。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
